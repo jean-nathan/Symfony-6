@@ -44,6 +44,4 @@ Este método é responsável por lidar com a rota `/animal/{slug}` do aplicativo
 
 Ambos os métodos retornam objetos `Response`, indicando que são responsáveis por gerar respostas HTTP. Isso ajuda na clareza do código e na compreensão da intenção de cada método.
 ```.
-
-
 ------------------------------------------------------------------------------------
